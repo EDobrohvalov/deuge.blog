@@ -47,7 +47,7 @@ export default () => {
                 onClick={toggleMenu}
                 activeClassName={style.anchorActive}
               >
-                About
+                Обо мне
               </Link>
             </li>
             <li className={style.navItem}>
@@ -56,7 +56,7 @@ export default () => {
                 onClick={toggleMenu}
                 activeClassName={style.anchorActive}
               >
-                Blog
+                БЛОГ
               </Link>
             </li>         
             <li className={style.navItem}>
@@ -65,7 +65,7 @@ export default () => {
                 onClick={toggleMenu}
                 activeClassName={style.anchorActive}
               >
-                Tags
+                ТЭГИ
               </Link>
             </li>
             <li className={style.navItem}>
@@ -74,7 +74,7 @@ export default () => {
                 onClick={toggleMenu}
                 activeClassName={style.anchorActive}
               >
-                Contact
+                КОНТАКТЫ
               </Link>
             </li>
 
